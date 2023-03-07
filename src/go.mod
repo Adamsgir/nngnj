@@ -15,27 +15,27 @@ require (
 	github.com/fogleman/gg v1.3.0
 	github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0
 	github.com/google/uuid v1.3.0 // indirect
-	github.com/gookit/color v1.5.0
+	github.com/gookit/color v1.5.2
 	github.com/gookit/config/v2 v2.0.27
-	github.com/gookit/goutil v0.4.0 // indirect
+	github.com/gookit/goutil v0.6.0 // indirect
 	github.com/huandu/xstrings v1.3.2 // indirect
 	github.com/mitchellh/copystructure v1.2.0 // indirect
 	github.com/mitchellh/mapstructure v1.4.2
 	github.com/sergi/go-diff v1.2.0 // indirect
 	github.com/shirou/gopsutil/v3 v3.21.10
-	github.com/stretchr/objx v0.3.0 // indirect
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/objx v0.4.0 // indirect
+	github.com/stretchr/testify v1.8.0
 	github.com/tklauser/go-sysconf v0.3.9 // indirect
 	github.com/wayneashleyberry/terminal-dimensions v1.1.0
-	golang.org/x/crypto v0.0.0-20211117183948-ae814b36b871 // indirect
+	golang.org/x/crypto v0.0.0-20220829220503-c86fa9a7ed90 // indirect
 	golang.org/x/image v0.0.0-20211028202545-6944b10bf410
-	golang.org/x/sys v0.0.0-20211124211545-fe61309f8881
-	golang.org/x/text v0.3.7
+	golang.org/x/sys v0.0.0-20220829200755-d48e67d00261
+	golang.org/x/text v0.4.0
 	gopkg.in/ini.v1 v1.64.0
 	howett.net/plist v0.0.0-20201203080718-1454fab16a06 // indirect
 )
 
-require gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+require gopkg.in/yaml.v3 v3.0.1
 
 require (
 	github.com/Masterminds/goutils v1.1.1 // indirect
@@ -46,7 +46,6 @@ require (
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/lufia/plan9stats v0.0.0-20211012122336-39d0f177ccd0 // indirect
 	github.com/mattn/go-isatty v0.0.14 // indirect
-	github.com/mitchellh/go-homedir v1.1.0 // indirect
 	github.com/mitchellh/reflectwalk v1.0.2 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
@@ -55,6 +54,8 @@ require (
 	github.com/spf13/cast v1.4.1 // indirect
 	github.com/tklauser/numcpus v0.3.0 // indirect
 	github.com/xo/terminfo v0.0.0-20210125001918-ca9a967f8778 // indirect
+	golang.org/x/sync v0.1.0 // indirect
+	golang.org/x/term v0.0.0-20220722155259-a9ba230a4035 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
 
